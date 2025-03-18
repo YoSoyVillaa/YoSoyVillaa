@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A 18 years old guy that loves programming</h3>  
+<h3 align="center">A 19 years old guy that loves programming</h3>  
 <br/>  
   
 - 🔭 Developer at [HyrexStudios](https://twitter.com/HyrexStudios)
