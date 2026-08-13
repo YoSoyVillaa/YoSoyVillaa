@@ -42,7 +42,7 @@
 
 
 ## Statistics
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yosoyvillaa&show_icons=true&count_private=true&hide_border=true&locale=es&theme=dracula" align="center" /></div>  
+<div align="center"><img src="https://github-stats-extended.vercel.app/api?username=YoSoyVillaa&show_icons=true&include_all_commits=true" align="center" /></div>  
 
 <br/>  
 
