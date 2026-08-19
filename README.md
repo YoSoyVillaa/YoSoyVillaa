@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A 19 years old guy that loves programming</h3>  
+<h3 align="center">A 20 years old guy that loves programming</h3>  
 <br/>  
   
 - 🔭 Developer at [HyrexStudios](https://twitter.com/HyrexStudios)
   
 
-- ❓ I'm currently learning Java & Kotlin and Minecraft related APIs (Spigot, PaperMC, Velocity, etc)
+- ❓ Developing Java & Kotlin Minecraft Plugins using their related APIs (Spigot, PaperMC, Velocity, etc)
+
+
+- 🌐 Currently learning and working on Web Development (Frontend & Backend)
   
 
 - ✨ I like cats
