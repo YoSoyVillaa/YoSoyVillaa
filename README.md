@@ -8,7 +8,7 @@
 - ❓ Developing Java & Kotlin Minecraft Plugins using their related APIs (Spigot, PaperMC, Velocity, etc)
 
 
-- 🌐 Currently learning and working on Web Development (Frontend & Backend)
+- 🌐 Currently working on Web Development (Frontend & Backend)
   
 
 - ✨ I like cats
